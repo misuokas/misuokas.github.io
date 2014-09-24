@@ -4,6 +4,22 @@ body {
 	font: normal 0.8em sans-serif;
 }
 
+a:link {
+    color: #DEDEDE;
+}
+
+a:visited {
+    color: #ABABAB;
+}
+
+a:hover {
+    color: #FFFFFF;
+}
+
+a:active {
+    color: #FFFFFF;
+}
+
 table {
     width: 544px;
 }
